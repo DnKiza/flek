@@ -1,0 +1,31 @@
+	/*****************************************************************************/
+	*********Premiere utilisation*************	
+	*-Lancer d'abord l'application "directionFichier" qui est livree avec flek.  
+	*
+	*-Ensuite remplisser les fichiers "nom" de chaque dossier cree.
+	*****Exemple de fichier "nom": 3PF_Economique_nom.txt.
+	*****Voyez-y le mot-cle "nom".
+	**Ecrivez uniquement les noms.
+	**Un nom puis le suivant a la ligne.
+	*
+	*-Par apres, ouvrir l'application "remplissage" qui est livree avec flek.
+	*
+	*-Enfin, debutez avec flek.
+	***Apres cela vous pouvez a chaque fois n'utilisez que flek seulement, sauf
+	***si vous l'installez sur un autre PC.
+	*
+	*********Utilisation reguliere*************
+	*-Le mot de passe est aleatoirement genere par le PC et se trouve dans
+	**le fichier "mot_de_passe".
+	*
+	*-N'ouvrez pas le fichier qui contient le mot de passe avant que le PC vous
+	**demande de saisir le mot de passe.
+	*
+	*-Pour saisir plusieurs motifs, il faut les separer par un "/"
+	*
+	*
+	*ATTENTION: N'OUVREZ JAMAIS L'APPLICATION REMPLISSAGE APRES AVOIR EFFECTUER
+	************AU MOINS UNE ACTION CAR CELA PEUT OCCASIONNER LA PERTE DES 
+	************INFORMATIONS.
+	*
+	******************************************************************************/
